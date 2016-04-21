@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">There You Are</string>
+    <string name="enable_nfc">Please enable NFC to send your location!</string>
+
+    <string name="feature_nfc">NFC</string>
+    <string name="feature_location">Location Services</string>
+    <string name="feature_beam">Android Beam (Android 4.1+)</string>
+
+    <string name="missing_feature_title">Missing Feature! :(</string>
+    <string name="missing_feature_body">
+        Your device is missing a key feature to use this application.
+        In order to use this app, please use a device that has the following feature: %1$s.
+    </string>
+
+    <string name="missing_location_permission_title">No Location Permission! :(</string>
+    <string name="missing_location_permission_body">
+        We don't have permission to fetch your location.
+        Please go into your application settings and grant us permission.
+    </string>
+</resources>
